@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/katsutoshi",
  "yomi": "わかさのしょうしょうかつとしあそんしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "江戸初期",
+  "author": "木下勝俊",
+  "desc": "木下勝俊（長嘯子）の家集。遠州らとの贈答や、宗貞の死を悼む歌など、交友の中で詠んだ歌を多く収める。"
+ },
  "editions": [
   {
    "pid": "936505",
